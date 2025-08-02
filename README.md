@@ -10,5 +10,5 @@ This is a simple and responsive web application that performs basic arithmetic o
 
 4. Responsive design for desktop and mobile
 
-5.Keyboard support (optional if implemented)
+5. Keyboard support (optional if implemented)
 
